@@ -18,7 +18,7 @@ function calculateTotalCost(a, b, c, d, e, f, g) {
 const totalCost = calculateTotalCost(Onekgapple, Onekgorenge, RambutanONEKG, pineappleONEKG, mangoONEKG, PapayaONEKG, PeachONEKG);
 
 if (money >= totalCost) {
-    console.log("You can buy this for ₹");
+    console.log("You can buy all the fruits");
 } else {
     console.log("You cannot buy all the fruits.");
 }
